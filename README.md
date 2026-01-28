@@ -1,148 +1,27 @@
-<div align="center">
+# 💫 About Me:
+I’m Aadil, a MERN + Next.js full-stack developer focused on building clean, modern, and scalable applications.<br><br>🔧 What I Build<br><br>Secure authentication systems using JWT + HttpOnly cookies<br><br>Role-based admin dashboards and backend architecture<br><br>Multi-step onboarding flows with React Hook Form & Zod<br><br>Payment systems with Razorpay integration & webhook verification<br><br>Supabase-based features like social profiles, posts & search (Min-iLinked project)<br><br>Clean and minimal UI/UX using Tailwind CSS & shadcn/ui<br><br>Production-ready APIs using Node.js, Express, MongoDB<br><br>🌐 Domains I’ve Worked In<br><br>NGO awareness platforms<br><br>E-commerce clothing store interfaces<br><br>Real-estate company portfolio & blog pages<br><br>Donation flow systems with payment verification<br><br>🚀 Current Focus<br><br>Improving JavaScript logic, problem-solving & DSA<br><br>Mastering system design & scalable architecture<br><br>Becoming a long-term high-level full-stack engineer
 
-<!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aadil;Full+Stack+Developer;MERN+%2B+Next.js+Expert;Building+Scalable+Apps" alt="Typing SVG" /></a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aadil-tai&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/aadil-tai-17812337b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadiltaitech@gmail.com) 
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```javascript
-const aadil = {
-    role: "Full Stack Developer",
-    stack: ["MERN", "Next.js", "TypeScript"],
-    current_focus: [
-        "System Design & Architecture",
-        "DSA & Problem Solving",
-        "Becoming a High-Level Engineer"
-    ],
-    working_on: "Building secure, scalable production apps"
-};
-```
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & Services
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-</div>
-
-## 🚀 What I Build
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔐 Authentication & Security
-- JWT + HttpOnly cookies
-- Role-based access control
-- Admin dashboards
-
-</td>
-<td width="50%">
-
-### 💳 Payment Systems
-- Razorpay integration
-- Webhook verification
-- Donation flows
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📝 Forms & Validation
-- Multi-step onboarding
-- React Hook Form + Zod
-- Type-safe validation
-
-</td>
-<td width="50%">
-
-### 🎨 UI/UX Design
-- Modern, clean interfaces
-- Tailwind CSS + shadcn/ui
-- Responsive design
-
-</td>
-</tr>
-</table>
-
-## 🌐 Domains I've Worked In
-
-```
-🏢 NGO Awareness Platforms
-🛍️ E-commerce Clothing Stores
-🏠 Real Estate Portfolios
-💰 Payment & Donation Systems
-🔗 Social Network Features (LinkedIn-style)
-```
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aadil-tai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aadil-tai&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadil-tai&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</div>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aadil-tai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Aadil-tai&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadil-tai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aadil-tai&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aadil-tai&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🎯 Current Focus
-
-- 📚 Mastering Data Structures & Algorithms
-- 🏗️ Learning System Design patterns
-- ⚡ Building production-ready applications
-- 🎓 Growing into a senior-level engineer
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aadil-tai-17812337b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadiltaitech@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Aadil-tai&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Aadil-tai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<div align="center">
-  
-  **💙 Thanks for visiting! Let's build something amazing together.**
-  
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
