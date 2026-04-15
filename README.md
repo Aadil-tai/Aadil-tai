@@ -25,27 +25,60 @@
 ```javascript
 const aadil = {
     location: "Vadodara, India 🇮🇳",
-    role: "Full Stack Developer",
-    code: ["JavaScript", "TypeScript", "Python", "C++"],
+    role: "Next.js Developer @ BardBox Digital Growth",
+    code: ["JavaScript", "TypeScript"],
     technologies: {
         frontend: {
-            js: ["React", "Next.js", "Redux"],
-            css: ["Tailwind", "SASS", "shadcn/ui"]
+            js: ["React", "Next.js", "Redux Toolkit"],
+            css: ["Tailwind CSS", "shadcn/ui"]
         },
         backend: {
             js: ["Node.js", "Express"],
-            databases: ["MongoDB", "PostgreSQL", "Supabase"]
+            databases: ["MongoDB", "PostgreSQL", "MySQL"]
         },
         devops: ["Vercel", "Git"],
-        tools: ["Vite", "Prisma", "Postman"]
+        tools: ["Prisma", "NextAuth.js", "Postman", "REST APIs"]
     },
-    architecture: ["REST API", "SPA", "SSR"],
+    architecture: ["REST API", "SPA", "SSR", "Server Components", "Role-Based Access"],
     currentFocus: "System Design & DSA",
     funFact: "I debug with console.log 😅"
 };
 ```
 
 <br clear="right"/>
+
+---
+
+## 💼 Work Experience
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🏢 BardBox Digital Growth — Next.js Developer
+**Aug 2025 – Present · Vadodara**
+
+- 🚀 Built user-facing web apps with **Next.js & React**, integrated with a shared backend
+- 🛠️ Contributed to admin panel: event creation, user management & zone-based access control
+- 🗄️ Designed **MongoDB models & controllers**, writing backend business logic
+- 🔐 Developed & consumed **REST APIs** with validation, error handling & role-based checks
+- 📦 Managed state using **Redux Toolkit** with feature-based API slices
+- ⚡ Used **Next.js Server & Client Components** with strategic rendering decisions
+
+</td>
+<td valign="top" width="50%">
+
+### 🏢 Novagito — Frontend Intern
+**Sep 2024 – Apr 2025 · Remote**
+
+- 📚 Learned **Tailwind CSS with React.js** in depth
+- 🌐 Worked on two live **end-to-end projects** as a frontend intern
+- 🤝 Contributed to two additional live projects under tight deadlines
+- 🎨 Built standalone **static landing pages** independently
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -59,7 +92,7 @@ const aadil = {
 - ⚛️ React & Next.js apps
 - 🎨 Modern UI with Tailwind
 - 📱 Responsive design
-- 🔄 State management
+- 🔄 Redux Toolkit state management
 - ✨ shadcn/ui components
 
 </td>
@@ -67,20 +100,20 @@ const aadil = {
 
 ### ⚙️ Backend Power
 - 🔧 REST API development
-- 🔐 JWT authentication
-- 🍪 HttpOnly cookies
-- 📊 Database design
-- 🔄 Webhook integration
+- 🔐 JWT & NextAuth.js authentication
+- 📊 MongoDB & PostgreSQL design
+- 🗄️ Prisma ORM & schema migrations
+- 🔄 Role-based access control
 
 </td>
 <td valign="top" width="33%">
 
 ### 💼 Business Solutions
-- 💳 Payment systems
-- 👥 Role-based access
-- 📝 Form validation
+- 👥 User & admin workflows
+- 📝 Form validation & error handling
 - 🛒 E-commerce features
 - 📈 Admin dashboards
+- 🏗️ Scalable architecture
 
 </td>
 </tr>
@@ -92,9 +125,41 @@ const aadil = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,php,react,nextjs,redux,nodejs,express,mongodb,postgres,prisma,supabase,tailwind,sass,vite,git,github,vscode,vercel,postman&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,postgres,prisma,tailwind,mysql,git,github,vscode,vercel,postman&perline=9" />
   </a>
 </p>
+
+---
+
+## 💻 Featured Projects
+
+<div align="center">
+
+| Project | Tech Stack | Highlights |
+|---------|-----------|------------|
+| **🌾 Grain Trading Marketplace** | Next.js, TypeScript, PostgreSQL, Prisma, NextAuth.js | 15-table relational schema, role-based access, JWT sessions, Server Components & Actions |
+| **📝 Notes Taking App** | React.js, Node.js, Express, MongoDB | Secure note management, email OTP verification for account activation & password resets |
+| **NGO Platform** | MERN Stack | Donation system, Payment integration, Admin dashboard |
+| **E-commerce Store** | Next.js, MongoDB | Product catalog, Cart, Razorpay checkout |
+| **Real Estate Portfolio** | React, Tailwind | Property listings, Blog, Contact forms |
+| **Mini-LinkedIn** | React, Supabase | User profiles, Posts, Search, Social features |
+| **Admin Dashboard** | Next.js, Prisma | Role-based access, CRUD operations, Analytics |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Score | Year |
+|--------|-------------|-------|------|
+| **MERN Stack Course** | Baroda Institute of Technology | — | Aug 2024 – May 2025 |
+| **Master of Computer Applications (MCA)** | Parul University | CGPA: 7.15 / 10.0 | Jul 2021 – Apr 2023 |
+| **Bachelor of Computer Applications (BCA)** | Parul University | CGPA: 8.43 / 10.0 | Jul 2018 – Apr 2021 |
+
+</div>
 
 ---
 
@@ -120,22 +185,6 @@ const aadil = {
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aadil-tai&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
-
----
-
-## 💻 Featured Projects
-
-<div align="center">
-
-| Project | Tech Stack | Features |
-|---------|-----------|----------|
-| **NGO Platform** | MERN Stack | Donation system, Payment integration, Admin dashboard |
-| **E-commerce Store** | Next.js, MongoDB | Product catalog, Cart, Razorpay checkout |
-| **Real Estate Portfolio** | React, Tailwind | Property listings, Blog, Contact forms |
-| **Mini-LinkedIn** | React, Supabase | User profiles, Posts, Search, Social features |
-| **Admin Dashboard** | Next.js, Prisma | Role-based access, CRUD operations, Analytics |
-
-</div>
 
 ---
 
