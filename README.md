@@ -178,7 +178,7 @@ const aadil = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aadil-tai&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="[https://github-profile-trophy.vercel.app/?username=Aadil-tai&theme=algolia&no-frame=true&no-bg=true&row=1&column=7](https://github-trophies.vercel.app/?username=Aadil-tai&theme=darkhub&no-frame=true&column=7%22)" />
 </p>
 
 ---
