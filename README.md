@@ -145,21 +145,6 @@ const aadil = {
 - 🔄 Role-Based Access Control (RBAC)
 
 </td>
-
-<td valign="top" width="33%">
-
-### 💼 Business Systems
-
-- 🎫 Event Management Platforms
-- 📱 QR Attendance Systems
-- 👥 Membership Management
-- 🏢 Zone & Franchise Management
-- 💰 Commission Distribution Engines
-- 📧 Email & WhatsApp Automation
-- 📈 Admin Dashboards & Analytics
-
-</td>
-
 </tr>
 </table>
 <td valign="top" width="33%">
