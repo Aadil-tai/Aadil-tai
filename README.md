@@ -145,8 +145,6 @@ const aadil = {
 - 🔄 Role-Based Access Control (RBAC)
 
 </td>
-</tr>
-</table>
 <td valign="top" width="33%">
 
 ### 💼 Business Systems
