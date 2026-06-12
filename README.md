@@ -25,23 +25,68 @@
 ```javascript
 const aadil = {
     location: "Vadodara, India 🇮🇳",
-    role: "Next.js Developer @ BardBox Digital Growth",
+    role: "MERN Stack Developer @ BardBox Digital Growth",
     code: ["JavaScript", "TypeScript"],
     technologies: {
         frontend: {
-            js: ["React", "Next.js", "Redux Toolkit"],
-            css: ["Tailwind CSS", "shadcn/ui"]
+            js: [
+                "React.js",
+                "Next.js",
+                "Redux Toolkit"
+            ],
+            css: [
+                "Tailwind CSS",
+                "shadcn/ui"
+            ]
         },
         backend: {
-            js: ["Node.js", "Express"],
-            databases: ["MongoDB", "PostgreSQL", "MySQL"]
+            js: [
+                "Node.js",
+                "Express.js"
+            ],
+            databases: [
+                "MongoDB",
+                "PostgreSQL",
+                "MySQL"
+            ]
         },
-        devops: ["Vercel", "Git"],
-        tools: ["Prisma", "NextAuth.js", "Postman", "REST APIs"]
+        tools: [
+            "Git",
+            "GitHub",
+            "Prisma ORM",
+            "NextAuth.js",
+            "Postman",
+            "REST APIs"
+        ]
     },
-    architecture: ["REST API", "SPA", "SSR", "Server Components", "Role-Based Access"],
-    currentFocus: "System Design & DSA",
-    funFact: "I debug with console.log 😅"
+    expertise: [
+        "Full Stack Development",
+        "Admin Panel Development",
+        "Event Management Systems",
+        "QR Attendance Systems",
+        "Membership Platforms",
+        "Commission Distribution Engines",
+        "Role-Based Access Control"
+    ],
+    architecture: [
+        "REST APIs",
+        "Server Components",
+        "Client Components",
+        "SSR",
+        "Authentication & Authorization",
+        "Scalable Web Applications"
+    ],
+    currentlyBuilding: [
+        "Business Networking Platforms",
+        "Production SaaS Applications",
+        "Full Stack Products"
+    ],
+    currentFocus: [
+        "System Design",
+        "Advanced Backend Architecture",
+        "Scalable Software Systems"
+    ],
+    funFact: "I still debug with console.log 😅"
 };
 ```
 
@@ -68,16 +113,19 @@ const aadil = {
 </td>
 <td valign="top" width="50%">
 
-### 🏢 Novagito — Frontend Intern
-**Sep 2024 – Apr 2025 · Remote**
+### 🏢 BardBox Digital Growth — MERN Stack Developer
+**May 2025 – Present · Vadodara**
 
-- 📚 Learned **Tailwind CSS with React.js** in depth
-- 🌐 Worked on two live **end-to-end projects** as a frontend intern
-- 🤝 Contributed to two additional live projects under tight deadlines
-- 🎨 Built standalone **static landing pages** independently
+- 🚀 Contributing to **BizCivitas**, a business networking and membership platform built using Next.js, React.js, Node.js, Express.js, MongoDB, and Redux Toolkit
+- 🌐 Developed the web version of BizCivitas by translating mobile application workflows into responsive production-ready interfaces
+- 🔗 Integrated REST APIs across user panel, admin panel, and backend services while implementing centralized state management using Redux Toolkit
+- 👥 Built and enhanced major business modules including Membership Management, User Management, Referral Hierarchy, Zone Management, Franchise Management, and Revenue Operations
+- 🎫 Designed and implemented an end-to-end Event Management System featuring registrations, reminders, automated WhatsApp & Email workflows, attendance confirmations, and post-event communications
+- 📱 Developed a high-performance QR Attendance System capable of rapidly processing attendee check-ins during live networking events
+- 💰 Built a Commission Allocation & Distribution Engine supporting franchise-level revenue sharing, custom commission overrides, membership-based commission rules, and multi-level payout calculations
+- 🛠️ Contributed to both frontend and backend development while collaborating through Git workflows, pull requests, testing, code reviews, and production deployments
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 ---
@@ -86,37 +134,62 @@ const aadil = {
 
 <table>
 <tr>
+
 <td valign="top" width="33%">
 
-### 🎯 Frontend Magic
-- ⚛️ React & Next.js apps
-- 🎨 Modern UI with Tailwind
-- 📱 Responsive design
-- 🔄 Redux Toolkit state management
-- ✨ shadcn/ui components
+### 🎯 Frontend Engineering
+
+- ⚛️ React.js & Next.js Development
+- 🎨 Responsive UI & Design Systems
+- 📱 Cross-Platform User Experiences
+- 🔄 Redux Toolkit State Management
+- ✨ Tailwind CSS & shadcn/ui
 
 </td>
+
 <td valign="top" width="33%">
 
-### ⚙️ Backend Power
-- 🔧 REST API development
-- 🔐 JWT & NextAuth.js authentication
-- 📊 MongoDB & PostgreSQL design
-- 🗄️ Prisma ORM & schema migrations
-- 🔄 Role-based access control
+### ⚙️ Backend Engineering
+
+- 🔧 REST API Development
+- 🔐 Authentication & Authorization
+- 📊 MongoDB & PostgreSQL Design
+- 🗄️ Prisma ORM & Database Modeling
+- 🔄 Role-Based Access Control (RBAC)
 
 </td>
+
 <td valign="top" width="33%">
 
-### 💼 Business Solutions
-- 👥 User & admin workflows
-- 📝 Form validation & error handling
-- 🛒 E-commerce features
-- 📈 Admin dashboards
-- 🏗️ Scalable architecture
+### 💼 Business Systems
+
+- 🎫 Event Management Platforms
+- 📱 QR Attendance Systems
+- 👥 Membership Management
+- 🏢 Zone & Franchise Management
+- 💰 Commission Distribution Engines
+- 📧 Email & WhatsApp Automation
+- 📈 Admin Dashboards & Analytics
 
 </td>
+
 </tr>
+</table>
+<td valign="top" width="33%">
+
+### 💼 Business Systems
+
+- 🎫 Event Management Platforms
+- 📱 QR Attendance Systems
+- 👥 Membership Management
+- 🏢 Zone & Franchise Hierarchies
+- 💰 Commission Distribution Engines
+- 📊 Revenue Operations
+- 📧 Email Automation Workflows
+- 💬 WhatsApp Notification Systems
+- 📈 Admin Dashboards & Analytics
+
+</td></tr>
 </table>
 
 ---
@@ -136,17 +209,15 @@ const aadil = {
 <div align="center">
 
 | Project | Tech Stack | Highlights |
-|---------|-----------|------------|
-| **🌾 Grain Trading Marketplace** | Next.js, TypeScript, PostgreSQL, Prisma, NextAuth.js | 15-table relational schema, role-based access, JWT sessions, Server Components & Actions |
-| **📝 Notes Taking App** | React.js, Node.js, Express, MongoDB | Secure note management, email OTP verification for account activation & password resets |
-| **NGO Platform** | MERN Stack | Donation system, Payment integration, Admin dashboard |
-| **E-commerce Store** | Next.js, MongoDB | Product catalog, Cart, Razorpay checkout |
-| **Real Estate Portfolio** | React, Tailwind | Property listings, Blog, Contact forms |
-| **Mini-LinkedIn** | React, Supabase | User profiles, Posts, Search, Social features |
-| **Admin Dashboard** | Next.js, Prisma | Role-based access, CRUD operations, Analytics |
+|---------|------------|------------|
+| **🏢 BizCivitas (Production Platform)** | Next.js, React.js, Node.js, Express.js, MongoDB | Membership Platform, Event Management System, QR Attendance, Commission Engine, Zone & Franchise Management, Revenue Operations |
+| **🌾 Grain Trading Marketplace** | Next.js, TypeScript, PostgreSQL, Prisma, NextAuth.js | 15-table relational schema, buyer-seller workflows, secure authentication, role-based access control |
+| **🌐 AadilTai Portfolio** | Next.js, TypeScript, Tailwind CSS | Personal brand website, SEO optimization, responsive design, project showcase |
+| **📝 Notes Taking App** | React.js, Node.js, Express.js, MongoDB | Secure note management, email OTP verification, password recovery workflows |
+| **🤝 NGO Platform** | MERN Stack | Donation system, payment integration, admin dashboard |
+| **🏠 Real Estate Platform** | React.js, Tailwind CSS | Property listings, blog management, inquiry workflows |
 
 </div>
-
 ---
 
 ## 🎓 Education
@@ -186,33 +257,38 @@ const aadil = {
 ## 🎯 Current Journey
 
 ```typescript
-interface Goals2025 {
+interface Goals2026 {
   learning: string[];
   building: string[];
-  contributing: string[];
+  exploring: string[];
 }
 
-const myJourney: Goals2025 = {
+const myJourney: Goals2026 = {
   learning: [
     "Advanced System Design",
-    "Data Structures & Algorithms",
-    "Scalable Architecture Patterns",
-    "Cloud Services (AWS/Azure)"
+    "Scalable Backend Architecture",
+    "Distributed Systems",
+    "Cloud Infrastructure (AWS)",
+    "Retrieval-Augmented Generation (RAG)",
+    "AI Application Architecture"
   ],
+
   building: [
-    "Production-grade Full Stack Apps",
-    "Open Source Tools",
-    "Developer Utilities"
+    "Production SaaS Applications",
+    "Healthcare Technology Solutions",
+    "Cross-Platform Mobile Applications",
+    "Full Stack Products"
   ],
-  contributing: [
-    "Open Source Projects",
-    "Technical Blogs",
-    "Developer Community"
+
+  exploring: [
+    "React Native Development",
+    "AI-Powered Workflows",
+    "Open Source Contributions",
+    "Developer Tools"
   ]
 };
 
-console.log("🚀 Let's build the future together!");
-```
+console.log("🚀 Building products that solve real-world business and healthcare problems.");
 
 ---
 
