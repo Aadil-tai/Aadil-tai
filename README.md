@@ -98,20 +98,7 @@ const aadil = {
 
 <table>
 <tr>
-<td valign="top" width="50%">
-
-### 🏢 BardBox Digital Growth — Next.js Developer
-**Aug 2025 – Present · Vadodara**
-
-- 🚀 Built user-facing web apps with **Next.js & React**, integrated with a shared backend
-- 🛠️ Contributed to admin panel: event creation, user management & zone-based access control
-- 🗄️ Designed **MongoDB models & controllers**, writing backend business logic
-- 🔐 Developed & consumed **REST APIs** with validation, error handling & role-based checks
-- 📦 Managed state using **Redux Toolkit** with feature-based API slices
-- ⚡ Used **Next.js Server & Client Components** with strategic rendering decisions
-
-</td>
-<td valign="top" width="50%">
+<td valign="top" width="70%">
 
 ### 🏢 BardBox Digital Growth — MERN Stack Developer
 **May 2025 – Present · Vadodara**
